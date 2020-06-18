@@ -14,4 +14,4 @@
 
 ## Exploratory Data Analysis (EDA)
 
-[Correlation Matrix](https://i.imgur.com/v05i6JQ.png)
+![Correlation Matrix](https://i.imgur.com/v05i6JQ.png)
